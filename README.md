@@ -12,4 +12,3 @@ Live Link [https://react-responsive-car-mechanic.netlify.app/](https://react-res
 6. Router setup with 404 page
 7. Setup Dynamic Route and access route params
 8. Header and Login component with React Bootstrap Navbar
-9. 
